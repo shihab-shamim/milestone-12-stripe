@@ -1,6 +1,7 @@
 import SectionTitle from "../../../componets/SectionTitle/SectionTitle";
 
 import featured from "../../../../assets/home/featured.jpg"
+
 import  './feature.css';
 
 const Featured = () => {
